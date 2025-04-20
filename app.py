@@ -21,7 +21,7 @@ HTML_TEMPLATE = """
     <title>Generated Game Preview</title>
     <style>
         body { font-family: sans-serif; padding: 2em; background: #f9f9f9; }
-        iframe { border: 1px solid #ccc; width: 100%; height: 607px; margin-bottom: 2em; }
+        iframe { border: 1px solid #ccc; width: 100%; height: 650px; margin-bottom: 2em; }
         pre { background: #272822; color: #f8f8f2; padding: 1em; overflow-x: auto; border-radius: 6px; }
         label { font-weight: bold; display: block; margin-top: 1em; }
         form { background: white; padding: 2em; border-radius: 10px; box-shadow: 0 0 12px rgba(0,0,0,0.1); }
