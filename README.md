@@ -1,6 +1,5 @@
 # Automate P2E Game Generation
-
-[![Watch the video](https://img.youtube.com/vi/C8SXq7PjnDk/0.jpg)](https://www.youtube.com/watch?v=C8SXq7PjnDk)
+[![Watch the video](https://img.youtube.com/vi/MOzv6OnTuTk/0.jpg)](https://www.youtube.com/watch?v=MOzv6OnTuTk)
 
 This project is a Flask-based web application that integrates:
 
