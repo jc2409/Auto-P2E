@@ -1,7 +1,6 @@
-curl -X POST -H "Content-Type: application/json" \
--d '{"prompt": "Create a desktop-friendly RPG game featuring quick exploration, intuitive character leveling, collectible items, simplified interactive dialogues, and quest-based progression. Include visually appealing environments optimized for desktop devices."}' \
-http://localhost:4000/generateGame
+uv run smart_contract.py
+uv run app.py
 
-uv run script.py
+Create a desktop-friendly Pet game where you can feed your pet and gain points. You should create a store where people can spend their points to earn money. Include visually appealing environments optimized for desktop devices.
 
-cd output_game && uv run app.py
+0x206F056e1168eCBB7167D3b0cdcAfde0eBbd5eF4
