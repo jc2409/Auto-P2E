@@ -3,7 +3,7 @@
 
 This project is a Flask-based web application that integrates:
 
-AI Game Generation – Utilizes OpenAI’s GPT model to generate blockchain game code based on user prompts.
+AI Agent Game Generation – Utilises OpenAI’s GPT4.1 model to generate blockchain game code based on user prompts.
 
 Blockchain Rewards – Interacts with a smart contract on Ethereum via Web3.py to reward users (tokens).
 
@@ -14,7 +14,7 @@ Blockchain Integration: Uses a rewardUser function to send blockchain-based rewa
 
 Flask Server: Routes for generating games (/generateGame), rewarding users (/reward), and serving game files.
 
-Environment Management: All sensitive information is loaded from a .env file for security and Utilize python UV Package Manager for faster environment management.
+Environment Management: All sensitive information is loaded from a .env file for security and utilise Python `uv` Package Manager for faster environment management.
 
 ## Run the model
 ```bash
