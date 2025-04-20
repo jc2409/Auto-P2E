@@ -1,5 +1,7 @@
 # Automate P2E Game Generation
 
+[![Watch the video](https://img.youtube.com/vi/C8SXq7PjnDk/0.jpg)](https://www.youtube.com/watch?v=C8SXq7PjnDk)
+
 This project is a Flask-based web application that integrates:
 
 AI Game Generation – Utilizes OpenAI’s GPT model to generate blockchain game code based on user prompts.
